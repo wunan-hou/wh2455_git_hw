@@ -1,2 +1,4 @@
 this is a test txt file 
 i would make some changes later
+today is cold
+but i believe my summer is comming soon
